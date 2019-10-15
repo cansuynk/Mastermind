@@ -1,5 +1,5 @@
 # Mastermind
 
-![Screenshot](first.png)
-![Screenshot](second.png)
-![Screenshot](third.png)
+![Screenshot](Screenshots/first.png)
+![Screenshot](Screenshots/second.png)
+![Screenshot](Screenshots/third.png)
